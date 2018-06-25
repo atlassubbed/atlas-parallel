@@ -6,9 +6,14 @@
     "test-server": "mocha --colors --watch --recursive './test/**/*.test.js'",
     "test": "mocha --colors --recursive './test/**/*.test.js'"
   },
-  "main": "./src/index.js",
-  "private": true,
-  "keywords": [],
+  "main": "./src/parallel.js",
+  "keywords": [
+    "atlassubbed",
+    "async",
+    "parallel",
+    "utils",
+    "utility"
+  ],
   "author": "atlassubbed <atlassubbed@gmail.com>",
   "license": "Apache-2.0",
   "devDependencies": {
