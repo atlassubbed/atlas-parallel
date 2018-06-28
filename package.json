@@ -1,6 +1,6 @@
 {
   "name": "atlas-parallel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run async functions in parallel with an onDone callback.",
   "scripts": {
     "test-server": "mocha --colors --watch --recursive './test/**/*.test.js'",
