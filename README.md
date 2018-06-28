@@ -2,6 +2,8 @@
 
 Run async functions in parallel with an onDone callback.
 
+[![Travis](https://img.shields.io/travis/atlassubbed/atlas-parallel.svg)](https://travis-ci.org/atlassubbed/atlas-parallel)
+
 ---
 
 ## install
